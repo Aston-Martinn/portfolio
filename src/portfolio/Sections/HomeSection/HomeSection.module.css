@@ -1,0 +1,27 @@
+.container h3 {
+    font-family: 'Exo 2', serif;
+    font-weight: 600;
+}
+
+.container p {
+    font-family: 'Exo 2', serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.container h5 {
+    font-family: 'Poppins', serif;
+    font-weight: 400;
+}
+
+.dividerLarge {
+    border-bottom: 1px solid rgb(255, 255, 255, 0.8);
+    width: 5%;
+    margin-top: 10px;
+}
+
+.dividerMedium {
+    border-bottom: 1px solid rgb(255, 255, 255, 0.8);
+    width: 20%;
+    margin-top: 10px;
+}

@@ -1,0 +1,22 @@
+.divider {
+    border-bottom: 1px solid rgb(255, 255, 255, 0.1);
+    width: 100%;
+    margin-top: 10px;
+}
+
+.email {
+    font-family: 'Poppins', serif;
+    font-size: 14px;
+}
+
+.toggle {
+    filter: invert(1);
+    border: none;
+}
+
+.toggle:active,
+.toggle:focus {
+    border: none !important;
+    background: transparent !important;
+    background-color: transparent !important;
+}

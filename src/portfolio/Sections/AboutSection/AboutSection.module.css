@@ -1,0 +1,65 @@
+.container h3 {
+    font-family: 'Exo 2', serif;
+    font-weight: 600;
+}
+
+.container p {
+    font-family: 'Exo 2', serif;
+    font-weight: 400;
+    font-size: 15.5px;
+}
+
+.dividerLarge {
+    border-bottom: 1px solid rgb(255, 255, 255, 0.8);
+    width: 5%;
+    margin-top: 10px;
+}
+
+.dividerMedium {
+    border-bottom: 1px solid rgb(255, 255, 255, 0.8);
+    width: 20%;
+    margin-top: 10px;
+}
+
+.card {
+    background-color: transparent;
+    border: 1px solid rgb(255, 255, 255, 0.8);
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card h4 {
+    color: #FFF;
+    font-weight: 400;
+    font-family: 'Exo 2', serif;
+}
+
+.card p {
+    color: #F0F0F0;
+    font-weight: 400;
+}
+
+.skillsCard {
+    background-color: #FFFFFF;
+    border-radius: 3px;
+}
+
+.skillsCard h5 {
+    font-family: 'Poppins', serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.dividerCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dividerCenterLg {
+    border-bottom: 1px solid rgb(255, 255, 255, 0.8);
+    width: 5%;
+    margin-top: 10px;
+}
