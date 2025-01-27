@@ -6,7 +6,7 @@ import Styles from './AboutSection.module.css';
 const AboutSection = () => {
     const myStack = {
         "languages": ["Java", "Kotlin", "JavaScript", "SQL", "Dart"],
-        "frameworks": ["React JS", "Next JS", "Spring Boot", "Node JS", "Flutter"],
+        "frameworks": ["React JS", "Next JS", "Spring Boot", "Node JS", "Flutter", "React Native"],
         "tools": ["Docker", "Jenkins", "MySQL", "MongoDB", "Git"],
         "generalSkills": ["Debugging", "Troubleshooting", "Problem Solving", "Project Management", "Version Control", "API Integration", "Linux", "Shell scripting", "System design"]
     };
